@@ -2,3 +2,11 @@ Name: Acob, KObe A.
 Age: 18
 Cellphone number: 09062265362
 Height: 5' 10"
+
+Favorites:
+
+Food: Pizza
+Color: Blue
+Subject: Break time
+Cartoon: Spongebob
+Anime: Jojo's BIzzare adventure
