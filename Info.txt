@@ -10,3 +10,5 @@ Color: Blue
 Subject: Break time
 Cartoon: Spongebob
 Anime: Jojo's BIzzare adventure
+
+Hates: Everything 
